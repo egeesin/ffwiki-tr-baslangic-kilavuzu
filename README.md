@@ -53,7 +53,7 @@ Ne mutlu [[Sayfa Adı|Türküm]] diyene!
 
 Şeklinde yazarsanız, okuyucu bunu okuduğunda 'Ne mutlu Türküm diyene!' diye görecek ve Türküm kelimesine tıkladığında 'Sayfa Adı' sayfasına gidecektir. Tabi bu bağlantılar yalnızca sayfa adlarıyla da sınırlı değil, sonraki başlığı okuduktan sonra daha iyi anlayacaksınız... 
 
-###Wikideki URL bağlantıları/Sayfa Türleri
+### Wikideki URL bağlantıları/Sayfa Türleri
 
 Tabi bağlantılardan söz etmişken Wiki'deki adreslerin de nasıl çalıştığını bilmenizde de fayda var:
 
@@ -107,17 +107,17 @@ http://fusionfall.wikia.com/wiki/Special:AllPages
 ```
 
 
-##Sonsöz
+## Sonsöz
 Şimdiden bu kılavuzdan yararlananlar kişilere büyük bir içtenlikle teşekkürlerimi iletiyorum, bu bilgilere verdiğiniz değeri yansıtıyor kesinlikle. Umarım faydalı bilgiler edinmişsinizdir.
 
 Kılavuzda herhangi bir soruna rastlarsanız beni Discord [sunucumuzdan](http://discord.gg/nPTEy9Y) bulup mesaj atabilirsiniz, en geç 1 gün içerisinde cevap verebilirim.
 
 ----
 
-##Lejant
+## Lejant
 Alttaki kavramlarda parantez içerisine alınanlar ek/çoğul eki/kelime/kelime grupları opsiyoneldir ya da o terimin türünü açıklıyordur.
 
-##Yerler
+## Yerler
 **Önemli Not:** Bu başlığın altındaki parantezler, tür göstermez, verinin kendisidir.
 
 ```
@@ -209,7 +209,7 @@ Mt. Neverest..........................: Neverest Dağı
 (Bu yer Dexter'ın Laboratuvarı'nda söz edilmiş olunabilir, orijinal Türkçe dublajını bulmak gerek)
 ```
 
-###Karantina Bölgeleri
+### Karantina Bölgeleri
 
 ```
 KND Training Area.....................: Afacanlar Eğitim Alanı
@@ -246,7 +246,7 @@ Dark Tree Clearing....................: Koyu Ağaç Açıklığı
 Green Gullet..........................: Yeşil Boğaz
 ```
 
-###Görevlerde sıkça adı geçen, spesifik yerler
+### Görevlerde sıkça adı geçen, spesifik yerler
 ```
 Chowder's Mouth.......................: Chowder'ın Ağzı
 City Tower/City Station Tower.........: Şehir Kulesi/Şehir İstasyonu Kulesi 
@@ -262,7 +262,7 @@ Trailer Park..........................: Karavan Parkı
 Ship's Interior.......................: Gemi'nin İçi
 ```
 
-###Potansiyel FF Legacy Yerleri
+### Potansiyel FF Legacy Yerleri
 
 ```
 Area 51.1.............................: 51.1. Bölge
@@ -274,7 +274,7 @@ Townsville Aquarium...................: Townsville Akvaryumu
 Townsville Zoo........................: Townsville Hayvanat Bahçesi
 ```
 
-##Karakterler, Karakter Grupları ve Nanolar
+## Karakterler, Karakter Grupları ve Nanolar
 
 ```
 A. Kwest's Gravestone.................: A. Kwest'in Mezartaşı
@@ -363,13 +363,13 @@ Whoosh(, the Alpha Whale).............: Alfa Balina Whoosh
 Worlds Collide (Manganın İsmi)........: Dünyalar Çarpışıyor
 ```
 
-###Potansiyel FF Legacy Karakterleri
+### Potansiyel FF Legacy Karakterleri
 ```
 Eustace...............................: Huysuz
 Muriel................................: Merdane
 ```
 
-###Nano Güçleri
+### Nano Güçleri
 **Not:** Nano isimleri Türkçelendirilmiştir.
 ```
 Passive Powers........................: Pasif Güçler
@@ -569,16 +569,7 @@ Point.................................: Nokta
 Cone..................................: Koni
 ```
 
-##Kayda değer görevler/görev grupları
-```
-Snail Quest...........................: Salyangoz Arayışı
-Chowder's IncrEDIBLE Journey..........: Chowder'ın Yenilebilir Macerası
-Ice King's Invasion...................: Buz Kralı'nın İstilası
-Alien Abduction.......................: Uzaylı Kaçırma
-```
-
-
-##Genel Kavramlar
+## Genel Kavramlar
 ```
 Accessories...........................: Takılar
 Affiliation...........................: Bağlantılar
@@ -676,7 +667,15 @@ Corruption Attacks
 Mechomorph
 ```
 
-##Çizgi Diziler
+## Kayda değer görevler/görev grupları
+```
+Snail Quest...........................: Salyangoz Arayışı
+Chowder's IncrEDIBLE Journey..........: Chowder'ın Yenilebilir Macerası
+Ice King's Invasion...................: Buz Kralı'nın İstilası
+Alien Abduction.......................: Uzaylı Kaçırma
+```
+
+## Çizgi Diziler
 ```
 Courage the Coward Dog................: Cesur Korkak Köpek
 Adventure Time with Finn and Jake.....: Adventure Time
@@ -686,7 +685,7 @@ Foster's Home for Imaginary Friends...: Foster'ın Hayali Dostlar Mekanı
 The Misadventures of Flapjack.........: Flapjack'in Müthiş Talihsizlikleri
 ```
 
-##Wikipedia Başlıkları
+## Wikipedia Başlıkları
 ```
 Community Portal......................: Topluluk Portali
 Policies..............................: Poliçeler
@@ -707,14 +706,14 @@ Simplified Ruleset....................: Basitleştirilmiş Kural Düzeni
 ......................................: 
 ```
 
-###Çevrilmesi Planlananlar
+### Çevrilmesi Planlananlar
 ```
 Eruption Attacks
 Corruption Attacks
 Mechomorph
 ```
 
-##XML dökümünü çevirmede yardımcı olabilecek düzenli ifadeler/regexler
+## XML dökümünü çevirmede yardımcı olabilecek düzenli ifadeler/regexler
 (Yalnızca Vim kod editörüyle çalışır, farklı kod editörleri için isterseniz, kılavuza ekleyebilirim)
 
 ```
